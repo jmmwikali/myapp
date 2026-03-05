@@ -25,3 +25,5 @@ export default App;
 
 // jsx
 // Create two other components i.e Contactus and Help components and style them with your own content. Render them on App.js component
+
+// App.js is our root component.

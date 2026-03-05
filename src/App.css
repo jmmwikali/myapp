@@ -230,3 +230,31 @@
   transform: scale(1.01); /* grow 5% bigger */
   box-shadow: 8px 8px 20px rgba(0,0,0,0.4), -4px -4px 12px rgba(255,255,255,0.6);
 }
+
+.Thirdcomponent{
+  background-color: #89e900;
+  color: #F2F0E6;
+  font-weight:100;
+  padding: 10px;
+}
+
+.Fourthcomponent{
+  background-color:#61dafb;
+  color: #F2F0E6;
+  font-weight:100;
+  padding: 10px;
+}
+.Sixthcomponent{
+  background-color:#005f73;
+  color: #F2F0E6;
+  font-weight:100;
+  padding: 10px;
+  margin-top: 20px;
+}
+
+.Sixthcomponent button{
+  background-color:#76ca00;
+  padding: 15px;
+  border-radius: 15px;
+  box-shadow: 8px 8px  rgba(0,0,0,0.4);
+}

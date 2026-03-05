@@ -1,8 +1,12 @@
 import './App.css';
 import Contactus from './components/Contactus';
+import Fifthcomponent from './components/Fifthcomponent';
 import Firstcomponent from './components/Firstcomponent';
+import Fourthcomponent from './components/Fourthcomponent';
 import Help from './components/Help';
 import Secondcomponent from './components/Secondcomponent';
+import Sixthcomponent from './components/Sixthcomponent';
+import Thirdcomponent from './components/Thirdcomponent';
 
 function App() {
   return (
@@ -13,10 +17,14 @@ function App() {
 
       </header>
       {/* Below we render/display/show our components */}
-        <Firstcomponent/>
-        <Secondcomponent/>
-        <Contactus/>
-        <Help/>
+        <Firstcomponent />
+        <Secondcomponent />
+        <Contactus />
+        <Help />
+        <Thirdcomponent />
+        <Fourthcomponent />
+        <Fifthcomponent />
+        <Sixthcomponent />
     </div>
   );
 }

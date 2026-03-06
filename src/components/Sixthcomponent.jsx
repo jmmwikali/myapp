@@ -15,4 +15,4 @@ const Sixthcomponent = () => {
     )
 }
 
-export default Sixthcomponent
+export default Sixthcomponent;

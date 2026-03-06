@@ -258,3 +258,29 @@
   border-radius: 15px;
   box-shadow: 8px 8px  rgba(0,0,0,0.4);
 }
+
+.Notfound{
+  font-size: 50px;
+  color: red;
+  font-weight: 900;
+}
+
+nav{
+  background-color: #00143b;
+  padding: 20px;
+}
+.navlinks{
+  text-decoration: none;
+  margin: 15px;
+  font-size: 20px;
+  color: #F2F0E6;
+  background-color: #1452cd;
+  padding: 8px;
+  border-radius: 15px;
+  font-weight: 500;
+}
+.navlinks:hover{
+  background-color: #F2F0E6;
+  color: #1452cd;
+}
+ 
